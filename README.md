@@ -1,2 +1,2 @@
-#Cool repo description
-cool repo description!
+# Information security labs
+Information security labs written in Go!
